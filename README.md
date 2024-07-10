@@ -1,5 +1,6 @@
 # generate-data
 
+generation_data.zip contains the data and code for our experiment.
 
 In this study to optimize the model DialogLED from: https://github.com/microsoft/DialogLM/tree/main/DialogLED
 
